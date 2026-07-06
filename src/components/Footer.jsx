@@ -50,6 +50,7 @@ export default function Footer() {
               >
                 WhatsApp comercial
               </a>
+              
             </li>
             <li>
               <a href="mailto:consultoriacomercial.dg@gmail.com">
