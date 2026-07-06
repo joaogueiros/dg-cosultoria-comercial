@@ -43,6 +43,9 @@ export default function Footer() {
           <h4 className="eyebrow">Contato</h4>
           <ul>
             <li>
+
+
+              
               <a
                 href="https://wa.me/5513996805974"
                 target="_blank"
@@ -50,6 +53,10 @@ export default function Footer() {
               >
                 WhatsApp comercial
               </a>
+
+
+
+
             </li>
             <li>
               <a href="mailto:consultoriacomercial.dg@gmail.com">
