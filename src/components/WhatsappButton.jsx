@@ -3,11 +3,11 @@ import '../styles/WhatsappButton.css'
 export default function WhatsappButton() {
   return (
     <a
-      href="https://wa.me/+5513996805974?text=Ol%C3%A1%2C%20Dayane!%20Quero%20estruturar%20o%20meu%20processo%20comercial."
+      href="https://wa.me/+5513996805974?text=Ol%C3%A1%2C%20equipe!%20Quero%20estruturar%20o%20meu%20processo%20comercial."
       target="_blank"
       rel="noreferrer"
       className="whatsapp-fab"
-      aria-label="Falar com a Dayane Gaffo no WhatsApp"
+      aria-label="Falar com a equipe DG no WhatsApp"
     >
       <svg viewBox="0 0 32 32" width="26" height="26" aria-hidden="true">
         <path
